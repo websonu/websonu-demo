@@ -1,3 +1,3 @@
 # websonu-demo
 This my first Repositories, <br>
-Author - Sonu verma
+Author - Sonu Verma
